@@ -11,7 +11,7 @@ Please, use navigation below to get to desired section
 | Champions | [Not Available](scripts/champions/README.md) |
 | Utility | [Not Available](scripts/utility/README.md) |
 | Developer tools | [Not Available](devtools/scripts/README.md) |
-| Developer documentations | [Contents](devtools/api/Guide.md) |
+| Developer documentations | [Contents](devtools/api/README.md) |
 | API | [Not Available](devtools/api/README.md) |
 
  

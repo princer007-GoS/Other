@@ -122,7 +122,3 @@ To3D(point, height)
 HitChance.<Name>(hitChance)
         returns boolean if <Name> matches given HitChance
 ```
-
-#### Parameters breakdown
-**source** - origin of calculation or Obj_AI_Base, spell cast position
-**source** - origin of calculation, spell cast position
